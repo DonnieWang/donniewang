@@ -3,7 +3,7 @@ I'm currently working in full-stack development. <br>Ask me about front-end, bac
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnie-wang78/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DonnieWang78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnie-wang78/) [![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0.svg?logo=Twitter&logoColor=white)](https://twitter.com/DonnieWang78) [![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/donnie.wdl)
 
 
 # 💻 Tech Stack:
