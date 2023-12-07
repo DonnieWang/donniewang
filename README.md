@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in full-stack development. <br>Ask me about front-end, back-end, or any tech-related topics.<br>
+I'm currently working in full-stack development. <br>Ask me about front-end, back-end, or mobile development, or any tech-related topics.<br>
 
 
 ## 🌐 Socials:
